@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.Balu.www.model.Employee;
 import com.Balu.www.service.EmployeeService;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://employee-management-system-ycry.onrender.com/")
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController 
