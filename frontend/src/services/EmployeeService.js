@@ -1,5 +1,5 @@
 import axios from 'axios';
-const EMPLOYEE_API = "https://employee-management-system-lmka.onrender.com/";
+const EMPLOYEE_API = "https://employee-management-system-lmka.onrender.com";
 
 class EmployeeService
 {
