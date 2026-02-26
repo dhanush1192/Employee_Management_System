@@ -399,13 +399,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Client:** BridgeSoft
 
 **Development Team:**
-- Backend Developer: [Your Name]
-- Frontend Developer: [Your Name]
-- Full Stack Developer: [Your Name]
+- Backend Developer
+- Frontend Developer
+- Full Stack Developer: DHANUSH BONTHALA
 
 ## 📧 Contact
 
-**Project Link:** [https://github.com/dhanush1192/Employee_Management_System](https://github.com/dhanush1192/Employee_Management_System)
+**Project Link:** [https://github.com/dhanush1192/Employee_Management_System](https://employee-management-system-ycry.onrender.com)
 
 **Email:** dhanushbonthala85@gmail.com
 
